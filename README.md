@@ -28,3 +28,8 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=php,laravel,docker,c,react,java" />
+</p>
+
