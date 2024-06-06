@@ -1,4 +1,4 @@
-## Olá, meu nome é {seu nome}!
+## Hi, I'm Teoni!
 
 ### ⚙️ GitHub Analytics
 
@@ -30,6 +30,6 @@
 </table>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,docker,c,react,java" />
+    <img src="https://skillicons.dev/icons?i=python,react,node,next,docker,ai" />
 </p>
 
