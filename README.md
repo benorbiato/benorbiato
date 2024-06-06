@@ -1,5 +1,8 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/beatriznorbiato](https://www.linkedin.com/in/beatriznorbiato/))]([https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/beatriznorbiato/)) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jbn.testoni@gmail.com)](mailto:jbn.testoni@gmail.com) </p>
-
+<samp>
+<p align="center">
+<a href="mailto:jbn.testoni@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/beatriznorbiato/">Linkedin</a> | <a href="https://jteoni.vercel.app/">Website</a>
+</p>
+  
 ```js
 import Developer from "Teoni";
 
