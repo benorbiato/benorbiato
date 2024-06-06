@@ -6,7 +6,7 @@
   
 ```js
 const teoni = {
-  code: ["Javascript", "Python", "HTML", "CSS"],
+  code: ["Javascript", "Python"],
   askMeAbout: ["software developer", "data engineer"],
   technologies: {
       frontend: ["React.js", "Next.js", "TypeScript"],
