@@ -1,6 +1,6 @@
 <samp>
 <p align="center">
-<a href="mailto:jbn.testoni@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/beatriznorbiato/">Linkedin</a> | <a href="https://jteoni.vercel.app/">Website</a>
+<a href="mailto:jbn.testoni@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/beatriznorbiato/">LinkedIn</a> | <a href="https://jteoni.vercel.app/">Website</a>
 </p>
 </samp>
   
