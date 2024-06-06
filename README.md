@@ -1,6 +1,10 @@
-## Hi, I'm Teoni!
+import Desenvolvedor from "Teoni";
 
-### ⚙️ Technologies
+class AboutMe extends Developer {
+  nome = "Teoni";
+  area = "Software Developer & Data Engineer";
+  location = "Brazil";
+}
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,react,ts,nodejs,nextjs,docker,postgress" />
