@@ -1,6 +1,6 @@
 <samp>
 <p align="center">
-<a href="mailto:jbn.testoni@gmail.com" target="_blank">Email</a> | <a href="https://jteoni.vercel.app/" target="_blank">Website</a>
+<a href="https://jteoni.vercel.app/" target="_blank">Website</a>
 </p>
 </samp>
   
