@@ -1,9 +1,3 @@
-<samp>
-<p align="center">
-<a href="https://jteoni.vercel.app/" target="_blank">Website</a>
-</p>
-</samp>
-  
 ```js
 const teoni = {
   code: ["Javascript", "Python"],
