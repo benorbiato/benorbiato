@@ -24,4 +24,4 @@ const benorbiato = {
   }
 }
 ```
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5526964.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/hectkker.png)
